@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Usar una API para trabajar el asincronismo en Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "async"
+  ],
+  "author": "Allan Atzin Flores De la Serna",
+  "license": "ISC"
+}
